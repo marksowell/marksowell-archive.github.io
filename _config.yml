@@ -1,0 +1,13 @@
+title: Christoforos Petrou
+description: Welcome to my personal space on the internet 😀
+baseurl: ""
+
+username: Christoforos Petrou
+user_description: Software Engineer & Information Security Enthusiast
+user_title: Software Engineer & Information Security Enthusiast
+github_username:  chrispetrou
+
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
