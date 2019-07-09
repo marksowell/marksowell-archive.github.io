@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#29d465"
       },
       "shape": {
         "type": "circle",
@@ -51,10 +51,10 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "line_linked": {
-        "enable": false,
+        "enable": true,
         "distance": 150,
-        "color": "#ffffff",
-        "opacity": 0.4,
+        "color": "#29d465",
+        "opacity": 0.25,
         "width": 1
       },
       "move": {
@@ -76,11 +76,11 @@ document.addEventListener("DOMContentLoaded", function () {
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
+          "enable": true,
           "mode": "bubble"
         },
         "onclick": {
-          "enable": false,
+          "enable": true,
           "mode": "repulse"
         },
         "resize": true
