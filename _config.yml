@@ -1,0 +1,13 @@
+title: Mark Sowell - Cybersecurity Consultant in Denver, CO
+description: Mark Sowell, CCSM - Cybersecurity Consultant in Denver, CO
+baseurl: ""
+
+username: Mark Sowell
+user_description: Check Point Professional Services Consultant & Cybersecurity Enthusiast
+user_title: Check Point Professional Services Consultant & Cybersecurity Enthusiast
+github_username:  marksowell
+
+google-analytics:
+  id: "UA-30849249-1"
+
+exclude: ['package.json', 'src' , 'node_modules']
