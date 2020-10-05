@@ -97,6 +97,31 @@
       height: 30px;
       font-size: 30px;
     }
+   .icon2 {
+    text-align: center;
+    color: #FFF;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 2px solid #FFF;
+    transition: all .5s;
+    &:hover {
+      color: $main;
+      background: #FFF;
+      background: url("assets/tryhackme_d.png") no-repeat;
+    }
+    &:active {
+      color: $main;
+      background: #FFF;
+    }
+    @media only screen and (min-width:$cut) {
+      width: 30px;
+      height: 30px;
+      font-size: 30px;
+    } 
   }
 }
 
