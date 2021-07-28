@@ -5069,3 +5069,21 @@ body {
     99%{    color:transparent;  }
     100%{   color: #fff;    }
 }
+
+.fa-thm:before {
+	display: flex;
+	height: 100%;
+    width: 100%;
+	content: "";
+	background: url("../tryhackme.png") no-repeat 0 0;
+	background-size:  cover;
+}
+
+.fa-thm:hover:before {
+	display: flex;
+	height: 100%;
+    width: 100%;
+	content: "";
+    background: url("../tryhackme_d.png") no-repeat 0 0;
+	background-size:  cover;
+}
