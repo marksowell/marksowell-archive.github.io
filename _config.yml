@@ -6,6 +6,7 @@ email: mark@marksowell.com
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 twitter:
   username: marksowell
