@@ -1,11 +1,14 @@
 title: Mark Sowell - CCSM Elite, CEH Master, & Cybersecurity Expert
-description: Mark Sowell - Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert. Expert security consulting, penetration testing, and hacker living in Denver, CO, Phoenix, AZ, and San Diego, CA. 
+description: Mark Sowell is a Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert. Expert security consulting, penetration testing, and hacker living in Denver, CO, Phoenix, AZ, and San Diego, CA. 
 baseurl: ""
+url: "https://marksowell.com"
+email: mark@marksowell.com
 
 username: Mark Sowell
 user_description: Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert
 user_title: Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert
 github_username:  marksowell
+twitter_username: marksowell
 
 google-analytics:
   id: "UA-30849249-1"
