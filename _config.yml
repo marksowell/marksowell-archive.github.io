@@ -4,6 +4,9 @@ baseurl: ""
 url: "https://marksowell.com"
 email: mark@marksowell.com
 
+plugins:
+  - jekyll-seo-tag
+
 username: Mark Sowell
 user_description: Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert
 user_title: Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert
