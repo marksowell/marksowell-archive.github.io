@@ -24,6 +24,15 @@ twitter_username: marksowell
 author:
     twitter: marksowell
 
+social:
+  name: Mark Sowell
+  links:
+    - https://twitter.com/marksowell
+    - https://www.facebook.com/marksowell
+    - https://www.linkedin.com/in/marksowell
+    - https://github.com/marksowell
+    - https://keybase.io/marksowell
+
 google-analytics:
   id: "UA-30849249-1"
 
