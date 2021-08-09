@@ -1,4 +1,4 @@
-title: Mark Sowell &#124; CCSM Elite, CEH Master, & Cybersecurity Expert
+title: Mark Sowell, CCSM Elite, CEH Master, & Cybersecurity Expert
 description: Mark Sowell is a Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert. 
 baseurl: ""
 url: "https://marksowell.com"
@@ -14,6 +14,11 @@ logo: "/favicon.ico" # site wide logo for use on social settings
 facebook:
  publisher: marksowell
 lang: en_US
+
+image:
+  path: /assets/mark-sowell.png
+  height: 630
+  width: 1200
 
 username: Mark Sowell
 user_description: Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert
