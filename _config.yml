@@ -6,6 +6,13 @@ email: mark@marksowell.com
 
 plugins:
   - jekyll-seo-tag
+  
+twitter:
+  username: marksowell
+logo: "/favicon.ico" # site wide logo for use on social settings
+facebook:
+ publisher: marksowell
+lang: en_US
 
 username: Mark Sowell
 user_description: Check Point Professional Services Consultant, Penetration Tester, Harmony Endpoint SME, CCSM Elite, CEH Master, & Cybersecurity Expert
