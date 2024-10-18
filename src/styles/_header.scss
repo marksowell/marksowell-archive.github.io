@@ -138,9 +138,9 @@
 }
 
 .status-container {
-    position: absolute;
-    bottom: 50px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-  }
+  width: 100%;
+  justify-content: center;
+  position: absolute;
+  display: flex;
+  bottom: 10px;
+}
