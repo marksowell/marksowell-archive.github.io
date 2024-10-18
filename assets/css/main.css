@@ -8325,7 +8325,8 @@ sup {
 	.header-icons .icon {
 		width: 35px;
 		height: 35px;
-		font-size: 30px
+		font-size: 30px;
+		align-content: center
 	}
 }
 
