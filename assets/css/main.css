@@ -5087,3 +5087,6 @@ body {
     background: url("../tryhackme_d.png") no-repeat 0 0;
 	background-size:  cover;
 }
+.fa-x-twitter:before {
+  content: "\e61b";
+}
