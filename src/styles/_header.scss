@@ -42,13 +42,6 @@
       font-size: 34px;
     }
   }
-  .status-container {
-    position: absolute;
-    bottom: 50px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-  }
 }
 
 .header-links {
@@ -143,3 +136,11 @@
       }
   }
 }
+
+.status-container {
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
