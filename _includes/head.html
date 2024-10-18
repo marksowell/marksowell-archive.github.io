@@ -7,10 +7,20 @@
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
-  <link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.png' }}" >
-  <link rel="icon" href="{{ '/assets/favicon.ico' }}" type="image/x-icon">
+  <link href="{{ '/assets/favicon-32.png' }}" rel="icon" type="image/png">
+  <link href="{{ '/assets/favicon-72.png' }}" rel="apple-touch-icon" type="image/png">
+  <link href="{{ '/assets/favicon-144.png' }}" rel="apple-touch-icon" type="image/png">
+
+  <!--<link rel="shortcut icon" type="image/png" href="{{ '/assets/favicon.png' }}" >
+  <link rel="icon" href="{{ '/favicon.ico' }}" type="image/x-icon">
   <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' }}" />
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' }}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' }}" />-->
   <meta name="apple-mobile-web-app-title" content="Mark Sowell" />
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  
+
+
   {% seo title=false %}
 </head>
+
+
