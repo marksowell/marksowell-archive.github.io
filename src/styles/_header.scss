@@ -42,13 +42,6 @@
       font-size: 34px;
     }
   }
-  .status-container {
-    width: 100%;
-    justify-content: center;
-    position: absolute;
-    display: flex;
-    bottom: 10px;
-  }
 }
 
 .header-links {
@@ -142,4 +135,11 @@
         color: $sec;
       }
   }
+}
+.status-container {
+  width: 100%;
+  justify-content: center;
+  position: absolute;
+  display: flex;
+  bottom: 10px;
 }
