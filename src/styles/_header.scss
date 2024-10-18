@@ -42,6 +42,12 @@
       font-size: 34px;
     }
   }
+  .status-container {
+    position: absolute;
+    bottom: 10px; /* Positions the container 10px from the bottom */
+    width: 100%;
+    display: flex;
+  }
 }
 
 .header-links {
@@ -135,12 +141,4 @@
         color: $sec;
       }
   }
-}
-
-.status-container {
-  position: absolute;
-  bottom: 10px; /* Positions the container 10px from the bottom */
-  width: 100%;
-  display: flex;
-  justify-content: center; /* Centers the iframe horizontally */
 }
