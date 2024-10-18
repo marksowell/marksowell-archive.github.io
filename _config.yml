@@ -10,7 +10,7 @@ plugins:
   
 twitter:
   username: marksowell
-logo: "/favicon-new.ico" # site wide logo for use on social settings
+logo: "/assets/favicon.ico" # site wide logo for use on social settings
 facebook:
  publisher: marksowell
 lang: en_US
