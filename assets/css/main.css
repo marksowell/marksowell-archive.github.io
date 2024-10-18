@@ -8305,6 +8305,7 @@ sup {
 }
 
 .header-icons .icon {
+	pointer-events: auto;
 	height: 20px;
 	padding: 10px;
 	border-radius: 50%;
