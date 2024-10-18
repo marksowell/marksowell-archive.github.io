@@ -8295,7 +8295,8 @@ sup {
 	outline: 0!important;
 	border: none!important;
 	outline-style: none!important;
-	-moz-outline-style: none!important
+	-moz-outline-style: none!important;
+	pointer-events: auto;
 }
 
 .down,
