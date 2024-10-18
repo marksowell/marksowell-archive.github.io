@@ -43,10 +43,9 @@
     }
   }
   .status-container {
-    position: absolute;
-    bottom: 10px; /* Positions the container 10px from the bottom */
     width: 100%;
     display: flex;
+    margin-top: calc(100vh - 50px)
   }
 }
 
