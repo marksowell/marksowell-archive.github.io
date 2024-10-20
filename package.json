@@ -9,13 +9,13 @@
   "author": "Mauricio Urraco <mauriurraco@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "browser-sync": "^2.29.3",
-    "gulp": "^3.9.1",
+    "browser-sync": "^3.0.3",
+    "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-csso": "^2.0.0",
-    "gulp-imagemin": "^3.1.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-imagemin": "^9.1.0",
     "gulp-plumber": "^1.1.0",
-    "gulp-sass": "^3.1.0",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^2.0.0"
   }
 }
