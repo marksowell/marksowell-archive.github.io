@@ -38,4 +38,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          publish_dir: ./dist/dev
+          publish_dir: ./dev
