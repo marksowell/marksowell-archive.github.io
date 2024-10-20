@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/dev',                   // Serves the Astro site under /dev
   trailingSlash: "ignore",
   output: "static",
-  outDir: './dev',
+  outDir: './dist/dev',
   build: {
     assets: 'astro'
   }
