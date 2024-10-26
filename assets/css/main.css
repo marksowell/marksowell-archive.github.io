@@ -8457,7 +8457,7 @@ body {
 	height: 100%;
     width: 100%;
 	content: "";
-	background: url("../tryhackme.png") no-repeat 0 0;
+	background: url("/assets/tryhackme.png") no-repeat 0 0;
 	background-size:  cover;
 }
 
@@ -8466,7 +8466,7 @@ body {
 	height: 100%;
     width: 100%;
 	content: "";
-    background: url("../tryhackme_d.png") no-repeat 0 0;
+    background: url("/assets/tryhackme_d.png") no-repeat 0 0;
 	background-size:  cover;
 }
 .fa-credly:before {
@@ -8474,7 +8474,7 @@ body {
 	height: 100%;
     width: 100%;
 	content: "";
-	background: url("../credly.png") no-repeat 0 0;
+	background: url("/assets/credly.png") no-repeat 0 0;
 	background-size:  cover;
 }
 
@@ -8483,6 +8483,6 @@ body {
 	height: 100%;
     width: 100%;
 	content: "";
-    background: url("../credly_d.png") no-repeat 0 0;
+    background: url("/assets/credly_d.png") no-repeat 0 0;
 	background-size:  cover;
 }
