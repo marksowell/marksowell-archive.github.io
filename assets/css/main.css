@@ -8458,7 +8458,7 @@ body {
 	height: 100%;
     width: 100%;
 	content: "";
-	background: url("/assets/credly.png") no-repeat 0 0;
+	background: url("/assets/tryhackme.png") no-repeat 0 0;
 	background-size:  cover;
 }
 
@@ -8467,7 +8467,7 @@ body {
 	height: 100%;
     width: 100%;
 	content: "";
-    background: url("/assets/credly_d.png") no-repeat 0 0;
+    background: url("/assets/tryhackme.png") no-repeat 0 0;
 	background-size:  cover;
 }
 
