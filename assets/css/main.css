@@ -8455,8 +8455,8 @@ body {
 
 .fa-mycredly:before {
 	display: flex;
-	height: 50%;
-    width: 50%;
+	height: 100%;
+    width: 100%;
 	content: "";
 	background: url("/assets/credly.png") no-repeat 0 0;
 	background-size:  cover;
@@ -8464,8 +8464,8 @@ body {
 
 .fa-mycredly:hover:before {
 	display: flex;
-	height: 50%;
-    width: 50%;
+	height: 100%;
+    width: 100%;
 	content: "";
     background: url("/assets/credly_d.png") no-repeat 0 0;
 	background-size:  cover;
