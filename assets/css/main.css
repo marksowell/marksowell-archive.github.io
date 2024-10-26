@@ -8453,21 +8453,21 @@ body {
     100%{   color: #fff;    }
 }
 
-.fa-credly:before {
+.fa-mycredly:before {
 	display: flex;
 	height: 100%;
     width: 100%;
 	content: "";
-	background: url("/assets/tryhackme.png") no-repeat 0 0;
+	background: url("/assets/credly.png") no-repeat 0 0;
 	background-size:  cover;
 }
 
-.fa-credly:hover:before {
+.fa-mycredly:hover:before {
 	display: flex;
 	height: 100%;
     width: 100%;
 	content: "";
-    background: url("/assets/tryhackme.png") no-repeat 0 0;
+    background: url("/assets/credly_d.png") no-repeat 0 0;
 	background-size:  cover;
 }
 
