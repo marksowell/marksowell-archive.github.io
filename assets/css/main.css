@@ -8441,6 +8441,7 @@ body {
 	margin: 0;
 	color: #fff
 }
+
 .blinking{
     animation:blinkingText 1.2s infinite;
 }
@@ -8450,6 +8451,24 @@ body {
     60%{    color: transparent; }
     99%{    color:transparent;  }
     100%{   color: #fff;    }
+}
+
+.fa-credly:before {
+	display: flex;
+	height: 100%;
+    width: 100%;
+	content: "";
+	background: url("/assets/credly.png") no-repeat 0 0;
+	background-size:  cover;
+}
+
+.fa-credly:hover:before {
+	display: flex;
+	height: 100%;
+    width: 100%;
+	content: "";
+    background: url("/assets/credly_d.png") no-repeat 0 0;
+	background-size:  cover;
 }
 
 .fa-thm:before {
@@ -8467,22 +8486,5 @@ body {
     width: 100%;
 	content: "";
     background: url("/assets/tryhackme_d.png") no-repeat 0 0;
-	background-size:  cover;
-}
-.fa-credly:before {
-	display: flex;
-	height: 100%;
-    width: 100%;
-	content: "";
-	background: url("/assets/credly.png") no-repeat 0 0;
-	background-size:  cover;
-}
-
-.fa-credly:hover:before {
-	display: flex;
-	height: 100%;
-    width: 100%;
-	content: "";
-    background: url("/assets/credly_d.png") no-repeat 0 0;
 	background-size:  cover;
 }
