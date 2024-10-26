@@ -8469,3 +8469,20 @@ body {
     background: url("../tryhackme_d.png") no-repeat 0 0;
 	background-size:  cover;
 }
+.fa-credly:before {
+	display: flex;
+	height: 100%;
+    width: 100%;
+	content: "";
+	background: url("../credly.png") no-repeat 0 0;
+	background-size:  cover;
+}
+
+.fa-credly:hover:before {
+	display: flex;
+	height: 100%;
+    width: 100%;
+	content: "";
+    background: url("../credly_d.png") no-repeat 0 0;
+	background-size:  cover;
+}
